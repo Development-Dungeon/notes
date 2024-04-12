@@ -11,3 +11,7 @@ git config http.postBuffer 500M
 git config http.maxRequestBuffer 100M
 git config core.compression 0
 ```
+
+
+# Tutorials
+- [Optomize Unity File Size](https://docs.unity3d.com/410/Documentation/Manual/ReducingFilesize.html)
